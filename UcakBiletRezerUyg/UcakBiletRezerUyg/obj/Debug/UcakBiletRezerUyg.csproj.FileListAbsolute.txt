@@ -1,0 +1,11 @@
+C:\Users\yağmur\source\repos\UcakBiletRezerUyg\UcakBiletRezerUyg\bin\Debug\UcakBiletRezerUyg.exe.config
+C:\Users\yağmur\source\repos\UcakBiletRezerUyg\UcakBiletRezerUyg\bin\Debug\UcakBiletRezerUyg.exe
+C:\Users\yağmur\source\repos\UcakBiletRezerUyg\UcakBiletRezerUyg\bin\Debug\UcakBiletRezerUyg.pdb
+C:\Users\yağmur\source\repos\UcakBiletRezerUyg\UcakBiletRezerUyg\obj\Debug\UcakBiletRezerUyg.csproj.AssemblyReference.cache
+C:\Users\yağmur\source\repos\UcakBiletRezerUyg\UcakBiletRezerUyg\obj\Debug\UcakBiletRezerUyg.Form1.resources
+C:\Users\yağmur\source\repos\UcakBiletRezerUyg\UcakBiletRezerUyg\obj\Debug\UcakBiletRezerUyg.KayıtFormu.resources
+C:\Users\yağmur\source\repos\UcakBiletRezerUyg\UcakBiletRezerUyg\obj\Debug\UcakBiletRezerUyg.Properties.Resources.resources
+C:\Users\yağmur\source\repos\UcakBiletRezerUyg\UcakBiletRezerUyg\obj\Debug\UcakBiletRezerUyg.csproj.GenerateResource.cache
+C:\Users\yağmur\source\repos\UcakBiletRezerUyg\UcakBiletRezerUyg\obj\Debug\UcakBiletRezerUyg.csproj.CoreCompileInputs.cache
+C:\Users\yağmur\source\repos\UcakBiletRezerUyg\UcakBiletRezerUyg\obj\Debug\UcakBiletRezerUyg.exe
+C:\Users\yağmur\source\repos\UcakBiletRezerUyg\UcakBiletRezerUyg\obj\Debug\UcakBiletRezerUyg.pdb

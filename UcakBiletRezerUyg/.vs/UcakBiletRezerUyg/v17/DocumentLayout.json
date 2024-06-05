@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ya\u011Fmur\\source\\repos\\UcakBiletRezerUyg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD0E7B1-7415-4D33-9E70-7EAD65F38429}|UcakBiletRezerUyg\\UcakBiletRezerUyg.csproj|c:\\users\\ya\u011Fmur\\source\\repos\\ucakbiletrezeruyg\\ucakbiletrezeruyg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD0E7B1-7415-4D33-9E70-7EAD65F38429}|UcakBiletRezerUyg\\UcakBiletRezerUyg.csproj|solutionrelative:ucakbiletrezeruyg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD0E7B1-7415-4D33-9E70-7EAD65F38429}|UcakBiletRezerUyg\\UcakBiletRezerUyg.csproj|c:\\users\\ya\u011Fmur\\source\\repos\\ucakbiletrezeruyg\\ucakbiletrezeruyg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FD0E7B1-7415-4D33-9E70-7EAD65F38429}|UcakBiletRezerUyg\\UcakBiletRezerUyg.csproj|solutionrelative:ucakbiletrezeruyg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD0E7B1-7415-4D33-9E70-7EAD65F38429}|UcakBiletRezerUyg\\UcakBiletRezerUyg.csproj|c:\\users\\ya\u011Fmur\\source\\repos\\ucakbiletrezeruyg\\ucakbiletrezeruyg\\kay\u0131tformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FD0E7B1-7415-4D33-9E70-7EAD65F38429}|UcakBiletRezerUyg\\UcakBiletRezerUyg.csproj|solutionrelative:ucakbiletrezeruyg\\kay\u0131tformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD0E7B1-7415-4D33-9E70-7EAD65F38429}|UcakBiletRezerUyg\\UcakBiletRezerUyg.csproj|c:\\users\\ya\u011Fmur\\source\\repos\\ucakbiletrezeruyg\\ucakbiletrezeruyg\\kay\u0131tformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD0E7B1-7415-4D33-9E70-7EAD65F38429}|UcakBiletRezerUyg\\UcakBiletRezerUyg.csproj|solutionrelative:ucakbiletrezeruyg\\kay\u0131tformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD0E7B1-7415-4D33-9E70-7EAD65F38429}|UcakBiletRezerUyg\\UcakBiletRezerUyg.csproj|c:\\users\\ya\u011Fmur\\source\\repos\\ucakbiletrezeruyg\\ucakbiletrezeruyg\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD0E7B1-7415-4D33-9E70-7EAD65F38429}|UcakBiletRezerUyg\\UcakBiletRezerUyg.csproj|solutionrelative:ucakbiletrezeruyg\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kay\u0131tFormu.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ya\u011Fmur\\source\\repos\\UcakBiletRezerUyg\\UcakBiletRezerUyg\\Kay\u0131tFormu.cs",
+              "RelativeDocumentMoniker": "UcakBiletRezerUyg\\Kay\u0131tFormu.cs",
+              "ToolTip": "C:\\Users\\ya\u011Fmur\\source\\repos\\UcakBiletRezerUyg\\UcakBiletRezerUyg\\Kay\u0131tFormu.cs [Tasar\u0131m]",
+              "RelativeToolTip": "UcakBiletRezerUyg\\Kay\u0131tFormu.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T12:28:51.909Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ya\u011Fmur\\source\\repos\\UcakBiletRezerUyg\\UcakBiletRezerUyg\\Form1.cs",
+              "RelativeDocumentMoniker": "UcakBiletRezerUyg\\Form1.cs",
+              "ToolTip": "C:\\Users\\ya\u011Fmur\\source\\repos\\UcakBiletRezerUyg\\UcakBiletRezerUyg\\Form1.cs",
+              "RelativeToolTip": "UcakBiletRezerUyg\\Form1.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAwGcAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T13:00:15.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ya\u011Fmur\\source\\repos\\UcakBiletRezerUyg\\UcakBiletRezerUyg\\Form1.cs",
+              "RelativeDocumentMoniker": "UcakBiletRezerUyg\\Form1.cs",
+              "ToolTip": "C:\\Users\\ya\u011Fmur\\source\\repos\\UcakBiletRezerUyg\\UcakBiletRezerUyg\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "UcakBiletRezerUyg\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T11:54:16.29Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Kay\u0131tFormu.cs",
+              "DocumentMoniker": "C:\\Users\\ya\u011Fmur\\source\\repos\\UcakBiletRezerUyg\\UcakBiletRezerUyg\\Kay\u0131tFormu.cs",
+              "RelativeDocumentMoniker": "UcakBiletRezerUyg\\Kay\u0131tFormu.cs",
+              "ToolTip": "C:\\Users\\ya\u011Fmur\\source\\repos\\UcakBiletRezerUyg\\UcakBiletRezerUyg\\Kay\u0131tFormu.cs",
+              "RelativeToolTip": "UcakBiletRezerUyg\\Kay\u0131tFormu.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T12:31:40.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ya\u011Fmur\\source\\repos\\UcakBiletRezerUyg\\UcakBiletRezerUyg\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "UcakBiletRezerUyg\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\ya\u011Fmur\\source\\repos\\UcakBiletRezerUyg\\UcakBiletRezerUyg\\Form1.Designer.cs",
+              "RelativeToolTip": "UcakBiletRezerUyg\\Form1.Designer.cs",
+              "ViewState": "AQIAAOIAAAAAAAAAAAAAAPgAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T13:36:44.49Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
